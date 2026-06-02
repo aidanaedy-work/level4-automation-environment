@@ -1,6 +1,6 @@
 {
   "name": "Level 4 Automation - Python & n8n",
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11-bookworm",
   "features": {
     "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
   },
